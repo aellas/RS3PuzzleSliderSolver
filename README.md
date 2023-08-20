@@ -1,2 +1,2 @@
 # RS3SliderPuzzleSolver
-Completes RS3 Slider Puzzles using ALT1's 'solved' instructions
+Completes RS3 Clue Slider Puzzles using ALT1's 'solved' instructions
